@@ -1,0 +1,10 @@
+C:\Users\Andychen\Documents\Visual Studio 2013\Projects\homework\homework\bin\Debug\homework.exe.config
+C:\Users\Andychen\Documents\Visual Studio 2013\Projects\homework\homework\bin\Debug\homework.exe
+C:\Users\Andychen\Documents\Visual Studio 2013\Projects\homework\homework\bin\Debug\homework.pdb
+C:\Users\Andychen\Documents\Visual Studio 2013\Projects\homework\homework\bin\Debug\homework.xml
+C:\Users\Andychen\Documents\Visual Studio 2013\Projects\homework\homework\obj\Debug\homework.Form1.resources
+C:\Users\Andychen\Documents\Visual Studio 2013\Projects\homework\homework\obj\Debug\homework.Resources.resources
+C:\Users\Andychen\Documents\Visual Studio 2013\Projects\homework\homework\obj\Debug\homework.vbproj.GenerateResource.Cache
+C:\Users\Andychen\Documents\Visual Studio 2013\Projects\homework\homework\obj\Debug\homework.exe
+C:\Users\Andychen\Documents\Visual Studio 2013\Projects\homework\homework\obj\Debug\homework.xml
+C:\Users\Andychen\Documents\Visual Studio 2013\Projects\homework\homework\obj\Debug\homework.pdb
